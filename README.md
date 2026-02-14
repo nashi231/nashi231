@@ -8,13 +8,13 @@
 
 
 
-🚀 **Software Engineer | AI & ML Enthusiast**   
+🚀 **Data Analyst | Software Engineer | AI & ML Enthusiast**   
 
 ---
 
 ### 💡 About Me
 
-I'm a graduate with a **Master's degree in Software Engineering from Western University**, Canada. Passionate about leveraging AI, machine learning, and data science to build intelligent and scalable solutions. I am looking forward to new opportunities and enhancing my skills. My quick-learning and adaptability alongside my curiosity and eagerness can help me contribute to the emerging innovations of data science.
+I'm a graduate with a **Master's degree in Software Engineering from Western University**, Canada and a **Graduate Diploma in Engineering Leadership and Innovation**. Passionate about leveraging analysis, AI, machine learning, and data science to build intelligent and scalable solutions. I am looking forward to new opportunities and enhancing my skills. My quick-learning and adaptability alongside my curiosity and eagerness can help me contribute to the emerging innovations of data analysis and data science.
 
 ---
 
@@ -26,7 +26,8 @@ I am diving deep into kaggle courses and datasets to develop a deeper understand
 
 ### 🎓 Education
 
-- **Master’s in Software Engineering** - Western University, Canada  
+- **Master’s in Software Engineering** - Western University, Canada
+- **Graduate Diploma in Engineering Leadership and Management** - Western University, Canada
 - **Bachelor’s in Electronics and Communications Engineering** - Anna University, India  
 
 ---
@@ -35,17 +36,18 @@ I am diving deep into kaggle courses and datasets to develop a deeper understand
 
 #### **Languages & Frameworks**
 
-- Python 🐍  
+- Python 🐍 including Pandas, matplotlib, seaborn 
 - SQL 🗄️  
 - Java ☕  
 - HTML5 🌐  
 - CSS3 🎨  
-- JavaScript ⚡  
+  
 
 #### **Data Visualization & Analysis**
 
+- Tableau 📈
+- Power BI
 - Excel 📊  
-- Tableau 📈  
 
 #### **Databases**
 
