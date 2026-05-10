@@ -36,7 +36,7 @@ I am diving deep into kaggle courses and datasets to develop a deeper understand
 
 #### **Languages & Frameworks**
 
-- Python 🐍 including Pandas, matplotlib, seaborn 
+- Python 🐍 including Pandas, matplotlib, seaborn, streamlit
 - SQL 🗄️  
 - Java ☕  
 - HTML5 🌐  
